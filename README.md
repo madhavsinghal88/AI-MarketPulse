@@ -8,6 +8,8 @@ https://docs.google.com/document/d/1Ncleuk5rwNhWLFXp-OOQa7S_wV8arNiS8msop0XFDy8/
 
 
 
+
+
 # AI MarketPulse – AI for Market Trend Analysis
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
