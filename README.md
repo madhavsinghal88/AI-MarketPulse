@@ -1,3 +1,11 @@
+ipynb: https://colab.research.google.com/github/madhavsinghal88/AI-MarketPulse/blob/main/marketpulse.ipynb
+Google DOC : https://docs.google.com/document/d/1Ncleuk5rwNhWLFXp-OOQa7S_wV8arNiS8msop0XFDy8/edit?usp=sharing
+
+
+
+
+
+
 # AI MarketPulse – AI for Market Trend Analysis
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
