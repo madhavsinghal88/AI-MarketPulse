@@ -101,15 +101,3 @@ marketpulse/
 - Model fairness across different product categories should be monitored
 - Transparency: This project uses AI/ML for educational demonstration
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
----
-
-**Module E: AI Applications – Individual Open Project**  
-*Built with Python, pandas, scikit-learn, and matplotlib*
