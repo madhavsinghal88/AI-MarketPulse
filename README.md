@@ -6,9 +6,8 @@ https://colab.research.google.com/github/madhavsinghal88/AI-MarketPulse/blob/mai
 ## Project Report (Google Docs)
 https://docs.google.com/document/d/1Ncleuk5rwNhWLFXp-OOQa7S_wV8arNiS8msop0XFDy8/edit?usp=sharing
 
-
-
-
+## Project Report (Google Slides)
+https://docs.google.com/presentation/d/1-3JWxcaNxenr_GaiaXv6BiJpwjgWM2U_xbn9xM_Yp-I/edit?usp=sharing
 
 # AI MarketPulse – AI for Market Trend Analysis
 
